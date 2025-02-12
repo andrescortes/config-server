@@ -1,0 +1,7 @@
+server:
+  port: 8005
+conf:
+  text: Environment for Development
+  author:
+    name: andres
+    email: andres@correo.com
