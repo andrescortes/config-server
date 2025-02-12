@@ -1,0 +1,4 @@
+server:
+  port: 8005
+conf:
+  text: test environment to config-server ms
