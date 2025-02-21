@@ -1,7 +1,7 @@
 server:
   port: 8005
 conf:
-  text: Environment for Development
+  text: Environment for Development and testing
   author:
     name: andres
     email: andres@correo.com
